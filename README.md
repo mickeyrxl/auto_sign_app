@@ -2,7 +2,7 @@
 
 ### sign in an app automatically using python
 
-* ### First you have to install adb & uiautomator2 & weditor in your PC. 
+* ### First you have to install adb & weditor in your PC, and uiautomator2 should be installed in your device.
 > Here is the guideline of uiautomator2 -> https://github.com/openatx/uiautomator2/blob/master/README.md
 
 * ### This command  $ adb devices will list all devices attached. So that youu can get the device's serial code.
